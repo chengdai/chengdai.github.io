@@ -1,7 +1,7 @@
 # Chengzhen Dai 
 
 
-<img align="left" width="250" height="250" src="headshot.png">
+<img align="left" width="225" height="225" src="headshot.png">
 I am a Master of Engineering student in Computer Science and Molecular Biology at MIT. As a member of the [Senseable City Lab](http://senseable.mit.edu) and working in collaboration with [Eric Alm](http://almlab.mit.edu/)'s lab, I study the [microbiology of urban sewage](http://underworlds.mit.edu). I also work on using genomic data to infer demographic patterns in the United States. My research interests lie in applying computational and quantitative methods to genomic data to understand spatial and temporal patterns.
 
 My previous research involved using computational and statistical methods to understand the relationship between land use development and municipal expenditure; combining technology, design, and behavioral science to drive changes in transportation behavior; and using fMRI imaging to understand the impact of monetary incentive on memory acquisition and recall.
