@@ -1,4 +1,3 @@
-<img align="left" width="225" height="225" src="headshot.png">  
 # Chengzhen Dai 
 
 
