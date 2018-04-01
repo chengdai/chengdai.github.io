@@ -32,4 +32,4 @@ Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and th
 
 - I'm a Michigander and a loyal [Michigan Wolverine](http://mgoblue.com/) fan. (Yes, I use my hands to explain Michigan.) 
 - I've ran three marathons, including the Boston Marathon. (If you need reasons to run a marathon, look [here](http://www.wbur.org/news/2014/04/08/team-hoyt-boston-marathon) and [here](https://www.boston.com/sports/boston-marathon/2017/04/15/running-pioneers-kathrine-switzer-bobbi-gibb-took-their-own-paths-to-change).)
-- [Detroit-style Pizza](https://www.eater.com/2016/1/19/10787414/detroit-style-pizza) is the best type of pizza out there. (Sorry, Chicago and New York.)
+- [Detroit-style pizza](https://www.eater.com/2016/1/19/10787414/detroit-style-pizza) is the best type of pizza out there. (Sorry, Chicago and New York.)
