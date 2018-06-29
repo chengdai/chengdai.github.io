@@ -1,7 +1,9 @@
 # Chengzhen Dai 
 
 <img align="left" width="225" height="225" src="headshot.png">
-I am a Master of Engineering student in Computer Science and Molecular Biology at MIT. As a joint member of the [Senseable City Lab](http://senseable.mit.edu) and [Eric Alm's lab](http://almlab.mit.edu/), I study the [microbiome and metabolome of urban sewage](http://underworlds.mit.edu) for public health surviellance and epidemiology. I also collaborate with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) on using genomic data to understand ancestry and demographic patterns in the United States. My interests lie in applying computational and quantitative methods to genomics to better understand populations and to drive public health decisions. More generally, I am passionate about bringing science and business together to make research accessible to the public so that we can together solve the biggest issues in health and medicine.
+I am a Master of Engineering student in Computer Science and Molecular Biology at MIT. As a joint member of the [Senseable City Lab](http://senseable.mit.edu) and [Eric Alm's lab](http://almlab.mit.edu/), I study the [microbiome and metabolome of urban sewage](http://underworlds.mit.edu) for public health surviellance and epidemiology. I also collaborate with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) on using genomic data to understand ancestry and demographic patterns in the United States. My interests lie in applying computational and quantitative methods to genomics to better understand populations and to drive public health decisions. More generally, I am passionate about bringing science and business together to make research accessible to the public so that we can together solve the biggest issues in health and medicine. 
+&nbsp
+&nbsp
 
 ## Education
 
