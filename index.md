@@ -14,7 +14,7 @@ I am a Master of Engineering student in Computer Science and Molecular Biology a
 *B.S. in C.S. and Biology* (2016)
 
 ## Peer-Reviewed Publications
-Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography* (In Press). Preprint on *SSRN*: https://ssrn.com/abstract=3019499
+Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography* (In Press). Preprint on *SSRN*: [https://ssrn.com/abstract=3019499]
 
 Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.**, Schechtner, K. and Chin, R. (2016). Gamification and Social Dynamics Behind Corporate Cycling Campaigns. *Transportation Research Procedia*, pp. 33-39. doi: [10.1016/j.trpro.2016.12.065](https://doi.org/10.1016/j.trpro.2016.12.065)
 
