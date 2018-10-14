@@ -15,7 +15,7 @@ I am a Master of Engineering student in Computer Science and Molecular Biology a
 
 <!--- ## Preprints --->
 ## Preprints
-Kim, S., **Dai C.**, Hormozdiari F., van de Geijn B., Gazal S., Park Y., O'Connor L., Amariuta T., Loh P., Finucane H., Raychaudhuri S., Price A. (2018). Genes with high network connectivity are enriched for disease heritability. Preprint on *bioRxiv*: [https://doi.org/10.1101/442582](https://doi.org/10.1101/442582)
+Kim, S., **Dai C.**, Hormozdiari F., van de Geijn B., Gazal S., Park Y., O'Connor L., Amariuta T., Loh P., Finucane H., Raychaudhuri S., Price A. (2018). Genes with high network connectivity are enriched for disease heritability. *bioRxiv*. doi: [10.1101/442582](https://doi.org/10.1101/442582)
 
 ## Peer-Reviewed Publications
 Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography* (In Press). Preprint on *SSRN*: [https://ssrn.com/abstract=3019499](https://ssrn.com/abstract=3019499)
