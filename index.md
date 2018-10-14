@@ -13,14 +13,16 @@ I am a Master of Engineering student in Computer Science and Molecular Biology a
 **Massachusetts Institute of Technology**  
 *B.S. in C.S. and Biology* (2016)
 
+<!--- ## Preprints --->
+## Preprints
+Kim, S., **Dai C.**, Hormozdiari F., van de Geijn B., Gazal S., Park Y., O'Connor L., Amariuta T., Loh P., Finucane H., Raychaudhuri S., Price A. (2018). Genes with high network connectivity are enriched for disease heritability. Preprint on *bioRxiv*: [https://doi.org/10.1101/442582](https://doi.org/10.1101/442582)
+
 ## Peer-Reviewed Publications
 Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography* (In Press). Preprint on *SSRN*: [https://ssrn.com/abstract=3019499](https://ssrn.com/abstract=3019499)
 
 Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.**, Schechtner, K. and Chin, R. (2016). Gamification and Social Dynamics Behind Corporate Cycling Campaigns. *Transportation Research Procedia*, pp. 33-39. doi: [10.1016/j.trpro.2016.12.065](https://doi.org/10.1016/j.trpro.2016.12.065)
 
 Wunsch, M., Stibe, A., Millonig, A., Seer, S., **Dai, C.**, Schechtner, K. and Chin, R. (2015). What Makes You Bike? Exploring Persuasive Strategies to Encourage Low-Energy Mobility. *Persuasive Technology*, pp. 53-64. doi: [10.1007/978-3-319-20306-5_5](https://doi.org/10.1007/978-3-319-20306-5_5)
-
-<!--- ## Preprints --->
 
 ## Personal Causes
 
