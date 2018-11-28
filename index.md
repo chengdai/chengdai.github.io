@@ -1,7 +1,7 @@
 # Chengzhen Dai 
 
 <img align="left" width="225" height="225" src="headshot2.png">
-I am a Master of Engineering student in Computer Science and Molecular Biology at MIT. As a joint member of [Eric Alm's lab](http://almlab.mit.edu/) and the [Senseable City Lab](http://senseable.mit.edu), I study the [microbiome of urban sewage](http://underworlds.mit.edu) for public health surveillance and epidemiology. I also collaborate with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) on using genomic data to understand ancestry and demographic patterns in the United States. My interests lie in applying computational and quantitative methods to genomics to better understand populations and to drive public health decisions. More generally, I am passionate about bringing science and business together to make research accessible to the public so that we can together solve the biggest issues in health and medicine. 
+I am a Master of Engineering student in Computer Science and Molecular Biology at MIT. As a joint member of [Eric Alm's lab](http://almlab.mit.edu/) and the [Senseable City Lab](http://senseable.mit.edu), I study antibiotic resistance, particularly in the [microbiome of urban sewage](http://underworlds.mit.edu) for public health surveillance and epidemiology. I also collaborate with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) on using genomic data to understand ancestry and demographic patterns in the United States. My interests lie in applying computational and quantitative methods to genomics and demography to better understand populations and to drive public health decisions. More generally, I am passionate about bringing science and business together to make research accessible to the public so that we can together solve the biggest issues in health and medicine. 
 <br><br>
 
 ## Education
@@ -18,7 +18,7 @@ I am a Master of Engineering student in Computer Science and Molecular Biology a
 Kim, S., **Dai C.**, Hormozdiari F., van de Geijn B., Gazal S., Park Y., O'Connor L., Amariuta T., Loh P., Finucane H., Raychaudhuri S., and Price A. (2018). Genes with high network connectivity are enriched for disease heritability. *bioRxiv*. doi: [10.1101/442582](https://doi.org/10.1101/442582)
 
 ## Peer-Reviewed Publications
-Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography* (In Press). Preprint on *SSRN*: [https://ssrn.com/abstract=3019499](https://ssrn.com/abstract=3019499)
+Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography*. doi: [10.1080/02723638.2018.1546499]
 
 Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.**, Schechtner, K. and Chin, R. (2016). Gamification and Social Dynamics Behind Corporate Cycling Campaigns. *Transportation Research Procedia*, pp. 33-39. doi: [10.1016/j.trpro.2016.12.065](https://doi.org/10.1016/j.trpro.2016.12.065)
 
