@@ -8,7 +8,7 @@ I am a Master of Engineering student in Computer Science and Molecular Biology a
 
 
 **Massachusetts Institute of Technology**  
-*M.Eng. in C.S. and Biology* (February 2019)
+*M.Eng. in C.S. and Biology* (January 2019)
 
 **Massachusetts Institute of Technology**  
 *B.S. in C.S. and Biology* (June 2016)
