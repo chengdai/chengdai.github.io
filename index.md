@@ -15,7 +15,9 @@ I am a Master of Engineering student in Computer Science and Molecular Biology a
 
 <!--- ## Preprints --->
 ## Preprints
-**Dai C.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
+**Dai, C.**, Vazifeh, M.M., Yeang, C.H., Tachet, R., Wells, R.S., Vilar, M.G., Daly, M.J., Ratti, C., and Martin, A.R. (2019). Population histories of the United States revealed through fine-scale migration and haplotype analysis. *bioRxiv*. doi: [10.1101/577411](https://doi.org/10.1101/577411)
+
+**Dai, C.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
 
 Kim, S., **Dai, C.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2018). Genes with high network connectivity are enriched for disease heritability. *bioRxiv*. doi: [10.1101/442582](https://doi.org/10.1101/442582)
 
