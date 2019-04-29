@@ -1,14 +1,14 @@
 # Chengzhen Dai 
 
 <img align="left" width="225" height="225" src="headshot2.png">
-I am a Master of Engineering student in Computer Science and Molecular Biology at MIT. As a member of both [Eric Alm's lab](http://almlab.mit.edu/) and the [Senseable City Lab](http://senseable.mit.edu), I study antibiotic resistance in the [microbiome of urban environments](http://underworlds.mit.edu) for public health surveillance and epidemiology. I also collaborate with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) on using genomic data to understand ancestry and demographic patterns in the United States. My interests lie in applying computational and quantitative methods to genomics and demography to better understand populations and to drive public health decisions. More generally, I am passionate about bringing science and business together to make research accessible to the public so that we can together solve the biggest issues in health and medicine. 
+I am a research engineer at Arivale studying the impact of host genetics and microbiome on human health. Previously, I was a Master of Engineering student in Computer Science and Molecular Biology at MIT. As a member of both [Eric Alm's lab](http://almlab.mit.edu/) and the [Senseable City Lab](http://senseable.mit.edu), I studied antibiotic resistance in the [microbiome of humans and urban environments](http://underworlds.mit.edu) for public health surveillance and epidemiology. I also collaborated with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) to understand ancestry and demographic patterns in the United States using genomic data. My interests lie in using computational and quantitative methods to better understand populations and to drive public health decisions. More generally, I am passionate about bringing science and business together to make research accessible to the public so that we can together solve the biggest issues in health and medicine. 
 <br><br>
 
 ## Education
 
 
 **Massachusetts Institute of Technology**  
-*M.Eng. in C.S. and Biology* (Sept 2017 - Jan 2019)
+*M.Eng. in C.S. and Biology* (Sept 2017 - Dec 2018)
 
 **Massachusetts Institute of Technology**  
 *B.S. in C.S. and Biology* (Sept 2012 - June 2016)
