@@ -19,9 +19,9 @@ I am a research engineer at Arivale studying the impact of host genetics and mic
 
 **Dai, C.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
 
-Kim, S., **Dai, C.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2018). Genes with high network connectivity are enriched for disease heritability. *bioRxiv*. doi: [10.1101/442582](https://doi.org/10.1101/442582)
-
 ## Peer-Reviewed Publications
+Kim, S., **Dai, C.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2018). Genes with high network connectivity are enriched for disease heritability. *AJHG*. doi: [10.1016/j.ajhg.2019.03.020](https://doi.org/10.1016/j.ajhg.2019.03.020)
+
 Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography*. doi: [10.1080/02723638.2018.1546499](https://www.tandfonline.com/doi/full/10.1080/02723638.2018.1546499)
 
 Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.**, Schechtner, K. and Chin, R. (2016). Gamification and Social Dynamics Behind Corporate Cycling Campaigns. *Transportation Research Procedia*, pp. 33-39. doi: [10.1016/j.trpro.2016.12.065](https://doi.org/10.1016/j.trpro.2016.12.065)
