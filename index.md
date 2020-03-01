@@ -20,7 +20,7 @@ I am a software engineer / full-stack data scientist at the Institute for System
 **Dai, C.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
 
 ## Peer-Reviewed Publications
-Kim, S., **Dai, C.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2019). Genes with high network connectivity are enriched for disease heritability. *AJHG*. doi: [10.1016/j.ajhg.2019.03.020](https://doi.org/10.1016/j.ajhg.2019.03.020)
+Kim, S., **Dai, C.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2019). Genes with high network connectivity are enriched for disease heritability. *AJHG*. doi: [10.1016/j.ajhg.2019.03.020](https://doi.org/10.1016/j.ajhg.2019.03.020) \[[PDF](./papers/Kim_et_al_AJHG_2019.pdf)\]
 
 Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography*. doi: [10.1080/02723638.2018.1546499](https://www.tandfonline.com/doi/full/10.1080/02723638.2018.1546499)
 
