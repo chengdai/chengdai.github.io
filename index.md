@@ -8,18 +8,14 @@ I am a software engineer / full-stack data scientist at the Institute for System
 
 
 **Massachusetts Institute of Technology**  
-*M.Eng. in C.S. and Biology* (Sept 2017 - Dec 2018)
+*M.Eng. in C.S. and Biology* (Sept 2017 - Jan 2019)
 
 **Massachusetts Institute of Technology**  
 *B.S. in C.S. and Biology* (Sept 2012 - June 2016)
 
-<!--- ## Preprints --->
-## Preprints
-**Dai, C.**, Vazifeh, M.M., Yeang, C.H., Tachet, R., Wells, R.S., Vilar, M.G., Daly, M.J., Ratti, C., and Martin, A.R. (2019). Population histories of the United States revealed through fine-scale migration and haplotype analysis. *bioRxiv*. doi: [10.1101/577411](https://doi.org/10.1101/577411)
-
-**Dai, C.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
-
 ## Peer-Reviewed Publications
+**Dai, C.**, Vazifeh, M.M., Yeang, C.H., Tachet, R., Wells, R.S., Vilar, M.G., Daly, M.J., Ratti, C., and Martin, A.R. (2020). Population histories of the United States revealed through fine-scale migration and haplotype analysis. *AJHG*. doi: [10.1016/j.ajhg.2020.02.002](https://doi.org/10.1016/j.ajhg.2020.02.002) \[[PDF](./papers/Dai_et_al_2020.pdf)\]
+
 Kim, S., **Dai, C.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2019). Genes with high network connectivity are enriched for disease heritability. *AJHG*. doi: [10.1016/j.ajhg.2019.03.020](https://doi.org/10.1016/j.ajhg.2019.03.020) \[[PDF](./papers/Kim_et_al_AJHG_2019.pdf)\]
 
 Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography*. doi: [10.1080/02723638.2018.1546499](https://www.tandfonline.com/doi/full/10.1080/02723638.2018.1546499) \[[PDF]('./papers/Rolheiser_Dai_2019.pdf')\]
@@ -27,6 +23,10 @@ Rolheiser, L., **Dai, C.** (2017). Beyond Density: Municipal Expenditures and th
 Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.**, Schechtner, K. and Chin, R. (2016). Gamification and Social Dynamics Behind Corporate Cycling Campaigns. *Transportation Research Procedia*, pp. 33-39. doi: [10.1016/j.trpro.2016.12.065](https://doi.org/10.1016/j.trpro.2016.12.065) \[[PDF]('./papers/Millonig_et_al_2016.pdf')\]
 
 Wunsch, M., Stibe, A., Millonig, A., Seer, S., **Dai, C.**, Schechtner, K. and Chin, R. (2015). What Makes You Bike? Exploring Persuasive Strategies to Encourage Low-Energy Mobility. *Persuasive Technology*, pp. 53-64. doi: [10.1007/978-3-319-20306-5_5](https://doi.org/10.1007/978-3-319-20306-5_5) \[[PDF]('./papers/Wunsch_et_al_2015.pdf')\]
+
+## Preprints
+
+**Dai, C.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
 
 ## Personal Causes
 
