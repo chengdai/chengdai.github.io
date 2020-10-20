@@ -15,7 +15,7 @@ I am a software engineer / full-stack data scientist at the Institute for System
 
 ## Peer-Reviewed Publications
 
-Manor, O*. **Dai, C.L.**\*, Kornilov, S.A., Smith, B., Price, N.D., Lovejoy, J.C., Gibbons, S.M. and Magis, A.T. (2020). Health and disease markers correlate with gut microbiome composition across thousands of people. *Nature Communications*. doi: [10.1038/s41467-020-18871-1](https://doi.org/10.1038/s41467-020-18871-1). \[[PDF](./papers/Manor_Dai_et_al.pdf)] (\* Co-first authorship)
+Manor, O*. <b>Dai, C.L.*</b>, Kornilov, S.A., Smith, B., Price, N.D., Lovejoy, J.C., Gibbons, S.M. and Magis, A.T. (2020). Health and disease markers correlate with gut microbiome composition across thousands of people. *Nature Communications*. doi: [10.1038/s41467-020-18871-1](https://doi.org/10.1038/s41467-020-18871-1). \[[PDF](./papers/Manor_Dai_et_al.pdf)] (\* Co-first authorship)
 
 Evans, E.D., **Dai, C.L.**, Isazadeh, S., Park, S., Ratti, C., and Alm, E.J. (2020). Longitudinal wastewater sampling in buildings reveals temporal dynamics of metabolites. *PLOS Computational Biology*. doi: [10.1371/journal.pcbi.1008001](https://doi.org/10.1371/journal.pcbi.1008001) \[[PDF](./papers/Evans_et_al_2020.pdf)]
 
