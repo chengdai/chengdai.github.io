@@ -30,14 +30,17 @@ Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.L.**, Schechtner, K. and
 Wunsch, M., Stibe, A., Millonig, A., Seer, S., **Dai, C.L.**, Schechtner, K. and Chin, R. (2015). What Makes You Bike? Exploring Persuasive Strategies to Encourage Low-Energy Mobility. *Persuasive Technology*, pp. 53-64. doi: [10.1007/978-3-319-20306-5_5](https://doi.org/10.1007/978-3-319-20306-5_5) \[[PDF](./papers/Wunsch_et_al_2015.pdf)\]
 
 ## Preprints
+**Dai, C.L.**, Kornilov, S.A., Roper, R.T., Cohen-Cline, H., Jade, K., Smith, B., Heath, J.R., Diaz, G., Goldman, J.D., Hadlock, J.J., and Magis, A.T. (2020). Characteristics and Factors Associated with COVID-19 Infection, Hospitalization, and Mortality Across Race and Ethnicity. *MedRxiv* doi: [10.1101/2020.10.14.20212803](https://doi.org/10.1101/2020.10.14.20212803)
+
 
 **Dai, C.L.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
 
 ## Personal Causes
+[International Community Health Services (ICHS)](https://www.ichs.com/) - ICHS is a Federally Qualified Health Center that provides culturally and linguistically appropriate health services to improve the wellness of diverse people and communities in the Seattle/King County area.
 
-[Camp Kesem](http://campkesem.org/mit) - Providing children of cancer patients the opportunity to connect with other children facing similar challenges through a worry-free, week-long summer camp. 
+[Camp Kesem](http://campkesem.org/mit) - Camp Kesem provides children of cancer patients the opportunity to connect with other children facing similar challenges through a worry-free, week-long summer camp. 
 
-[Amphibious Achievement](http://amphibious.mit.edu/) - Helping low-resourced high school students achieve their highest potential through academic and athletic mentorship. 
+[Amphibious Achievement](http://amphibious.mit.edu/) - Amphibious Achievement helps under-resourced high school students achieve their highest potential through academic and athletic mentorship. 
 
 ## Random Facts ¯\\\_(ツ)\_/¯
 
