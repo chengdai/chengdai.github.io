@@ -19,7 +19,7 @@ Manor, O\*., <b>Dai, C.L.\*</b>, Kornilov, S.A., Smith, B., Price, N.D., Lovejoy
 
 Evans, E.D., **Dai, C.L.**, Isazadeh, S., Park, S., Ratti, C., and Alm, E.J. (2020). Longitudinal wastewater sampling in buildings reveals temporal dynamics of metabolites. *PLOS Computational Biology*. doi: [10.1371/journal.pcbi.1008001](https://doi.org/10.1371/journal.pcbi.1008001) \[[PDF](./papers/Evans_et_al_2020.pdf)]
 
-**Dai, C.L.**, Vazifeh, M.M., Yeang, C.H., Tachet, R., Wells, R.S., Vilar, M.G., Daly, M.J., Ratti, C., and Martin, A.R. (2020). Population histories of the United States revealed through fine-scale migration and haplotype analysis. *AJHG*. doi: [10.1016/j.ajhg.2020.02.002](https://doi.org/10.1016/j.ajhg.2020.02.002) \[[PDF](./papers/Dai_et_al_2020.pdf)\]
+**Dai, C.L.**, Vazifeh, M.M., Yeang, C.H., Tachet, R., Wells, R.S., Vilar, M.G., Daly, M.J., Ratti, C., and Martin, A.R. (2020). Population histories of the United States revealed through fine-scale migration and haplotype analysis. *AJHG*. doi: [10.1016/j.ajhg.2020.02.002](https://doi.org/10.1016/j.ajhg.2020.02.002) \[[PDF](./papers/Dai_et_al_2020.pdf)\] Press: [The Scientist](https://www.the-scientist.com/notebook/study-tracks-geographical-gene-flow-and-ancestry-in-the-us-67888)
 
 Kim, S., **Dai, C.L.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2019). Genes with high network connectivity are enriched for disease heritability. *AJHG*. doi: [10.1016/j.ajhg.2019.03.020](https://doi.org/10.1016/j.ajhg.2019.03.020) \[[PDF](./papers/Kim_et_al_AJHG_2019.pdf)\]
 
