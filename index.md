@@ -1,7 +1,7 @@
 # Chengzhen Dai 
 
 <img align="left" width="225" height="225" src="headshot2.png">
-I am a hybrid software engineer / data scientist at the Institute for Systems Biology (formerly Arivale), where I leverage multi-omic data to better understand human health and disease. Previously, I was a Master of Engineering student in Computer Science and Molecular Biology at MIT. There, I collaborated with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) to understand ancestry and demographic patterns in the United States using genomic data.  I also studied antibiotic resistance in the [microbiome of humans and urban environments](http://underworlds.mit.edu) for public health surveillance and epidemiology, working as part of [Eric Alm's lab](http://almlab.mit.edu/) and the [Senseable City Lab](http://senseable.mit.edu).  My interests lie in applying computational and quantitative methods to better understand populations and to drive health decisions. More generally, I am passionate about making science and research more accessible to the public so that we can together solve the biggest issues in health and medicine. 
+I am a software engineer and data scientist at the Institute for Systems Biology (formerly Arivale), where I leverage multi-omic data to better understand human health and disease. Previously, I was a Master of Engineering student in Computer Science and Molecular Biology at MIT. There, I collaborated with the [National Geographic's Genographic Project](https://genographic.nationalgeographic.com/about/) to understand ancestry and demographic patterns in the United States using genomic data.  I also studied antibiotic resistance in the [microbiome of humans and urban environments](http://underworlds.mit.edu) for public health surveillance and epidemiology, working as part of [Eric Alm's lab](http://almlab.mit.edu/) and the [Senseable City Lab](http://senseable.mit.edu).  My interests lie in applying computational and quantitative methods to better understand populations and to drive health decisions. More generally, I am passionate about making science and research more accessible to the public so that we can together solve the biggest issues in health and medicine. 
 <br><br>
 
 ## Education
@@ -15,7 +15,9 @@ I am a hybrid software engineer / data scientist at the Institute for Systems Bi
 
 ## Peer-Reviewed Publications
 
-Manor, O\*., <b>Dai, C.L.\*</b>, Kornilov, S.A., Smith, B., Price, N.D., Lovejoy, J.C., Gibbons, S.M. and Magis, A.T. (2020). Health and disease markers correlate with gut microbiome composition across thousands of people. <i>Nature Communications</i>. doi: [10.1038/s41467-020-18871-1](https://doi.org/10.1038/s41467-020-18871-1). \[[PDF](./papers/Manor_Dai_et_al.pdf)] (\*Co-first authorship)
+**Dai, C.L.**, Kornilov, S.A., Roper, R.T., Cohen-Cline, H., Jade, K., Smith, B., Heath, J.R., Diaz, G., Goldman, J.D., Magis, A.T., and Hadlock, J.J. (2021). Characteristics and Factors Associated with COVID-19 Infection, Hospitalization, and Mortality Across Race and Ethnicity. *Clinical Infectious Diseases*. doi: [10.1093/cid/ciab154](https://doi.org/10.1093/cid/ciab154)
+
+Manor, O\*., **Dai, C.L.\***, Kornilov, S.A., Smith, B., Price, N.D., Lovejoy, J.C., Gibbons, S.M. and Magis, A.T. (2020). Health and disease markers correlate with gut microbiome composition across thousands of people. <i>Nature Communications</i>. doi: [10.1038/s41467-020-18871-1](https://doi.org/10.1038/s41467-020-18871-1). \[[PDF](./papers/Manor_Dai_et_al.pdf)] (\*Co-first authorship)
 
 Evans, E.D., **Dai, C.L.**, Isazadeh, S., Park, S., Ratti, C., and Alm, E.J. (2020). Longitudinal wastewater sampling in buildings reveals temporal dynamics of metabolites. *PLOS Computational Biology*. doi: [10.1371/journal.pcbi.1008001](https://doi.org/10.1371/journal.pcbi.1008001) \[[PDF](./papers/Evans_et_al_2020.pdf)]
 
@@ -28,12 +30,6 @@ Rolheiser, L., **Dai, C.L.** (2017). Beyond Density: Municipal Expenditures and 
 Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.L.**, Schechtner, K. and Chin, R. (2016). Gamification and Social Dynamics Behind Corporate Cycling Campaigns. *Transportation Research Procedia*, pp. 33-39. doi: [10.1016/j.trpro.2016.12.065](https://doi.org/10.1016/j.trpro.2016.12.065) \[[PDF](./papers/Millonig_et_al_2016.pdf)\]
 
 Wunsch, M., Stibe, A., Millonig, A., Seer, S., **Dai, C.L.**, Schechtner, K. and Chin, R. (2015). What Makes You Bike? Exploring Persuasive Strategies to Encourage Low-Energy Mobility. *Persuasive Technology*, pp. 53-64. doi: [10.1007/978-3-319-20306-5_5](https://doi.org/10.1007/978-3-319-20306-5_5) \[[PDF](./papers/Wunsch_et_al_2015.pdf)\]
-
-## Preprints
-**Dai, C.L.**, Kornilov, S.A., Roper, R.T., Cohen-Cline, H., Jade, K., Smith, B., Heath, J.R., Diaz, G., Goldman, J.D., Hadlock, J.J., and Magis, A.T. (2020). Characteristics and Factors Associated with COVID-19 Infection, Hospitalization, and Mortality Across Race and Ethnicity. *MedRxiv* doi: [10.1101/2020.10.14.20212803](https://doi.org/10.1101/2020.10.14.20212803)
-
-
-**Dai, C.L.**, Duvallet, C., Zhang, A., Matus, M., Ghaeli, N., Park, S., Endo, N., Isazadeh, S., Jamil, K., Ratti, C., and Alm, E.J. (2019). Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in wastewater environments. *bioRxiv*. doi: [10.1101/562496](https://doi.org/10.1101/562496)
 
 ## Personal Causes
 [International Community Health Services (ICHS)](https://www.ichs.com/) - ICHS is a Federally Qualified Health Center that provides culturally and linguistically appropriate health services to improve the wellness of diverse people and communities in the Seattle/King County area.
