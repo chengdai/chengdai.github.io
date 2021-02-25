@@ -13,7 +13,7 @@ I am a software engineer and data scientist at the Institute for Systems Biology
 **Massachusetts Institute of Technology**  
 *B.S. in C.S. and Biology* (Sept 2012 - June 2016)
 
-## Peer-Reviewed Publications
+## Select Publications
 
 **Dai, C.L.**, Kornilov, S.A., Roper, R.T., Cohen-Cline, H., Jade, K., Smith, B., Heath, J.R., Diaz, G., Goldman, J.D., Magis, A.T., and Hadlock, J.J. (2021). Characteristics and Factors Associated with COVID-19 Infection, Hospitalization, and Mortality Across Race and Ethnicity. *Clinical Infectious Diseases*. doi: [10.1093/cid/ciab154](https://doi.org/10.1093/cid/ciab154)
 
@@ -25,11 +25,7 @@ Evans, E.D., **Dai, C.L.**, Isazadeh, S., Park, S., Ratti, C., and Alm, E.J. (20
 
 Kim, S., **Dai, C.L.**, Hormozdiari, F., van de Geijn, B., Gazal, S., Park, Y., O'Connor, L., Amariuta, T., Loh, P., Finucane, H., Raychaudhuri, S., and Price, A. (2019). Genes with high network connectivity are enriched for disease heritability. *AJHG*. doi: [10.1016/j.ajhg.2019.03.020](https://doi.org/10.1016/j.ajhg.2019.03.020) \[[PDF](./papers/Kim_et_al_AJHG_2019.pdf)\]
 
-Rolheiser, L., **Dai, C.L.** (2017). Beyond Density: Municipal Expenditures and the Shape and Location of Development. *Urban Geography*. doi: [10.1080/02723638.2018.1546499](https://www.tandfonline.com/doi/full/10.1080/02723638.2018.1546499) \[[PDF](./papers/Rolheiser_Dai_2019.pdf)\]
-
-Millonig, A., Wunsch, M., Stibe, A., Seer, S., **Dai, C.L.**, Schechtner, K. and Chin, R. (2016). Gamification and Social Dynamics Behind Corporate Cycling Campaigns. *Transportation Research Procedia*, pp. 33-39. doi: [10.1016/j.trpro.2016.12.065](https://doi.org/10.1016/j.trpro.2016.12.065) \[[PDF](./papers/Millonig_et_al_2016.pdf)\]
-
-Wunsch, M., Stibe, A., Millonig, A., Seer, S., **Dai, C.L.**, Schechtner, K. and Chin, R. (2015). What Makes You Bike? Exploring Persuasive Strategies to Encourage Low-Energy Mobility. *Persuasive Technology*, pp. 53-64. doi: [10.1007/978-3-319-20306-5_5](https://doi.org/10.1007/978-3-319-20306-5_5) \[[PDF](./papers/Wunsch_et_al_2015.pdf)\]
+(See [Google Scholar](https://scholar.google.com/citations?user=N94HEGoAAAAJ&hl=en) for more)
 
 ## Personal Causes
 [International Community Health Services (ICHS)](https://www.ichs.com/) - ICHS is a Federally Qualified Health Center that provides culturally and linguistically appropriate health services to improve the wellness of diverse people and communities in the Seattle/King County area.
